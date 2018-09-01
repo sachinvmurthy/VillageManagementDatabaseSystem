@@ -1,0 +1,1 @@
+This Contains the Database created by me that can be imported to your MySQL using phpMyAdmin (easier and faster).
